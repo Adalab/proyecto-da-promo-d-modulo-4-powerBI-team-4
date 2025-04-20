@@ -1,6 +1,6 @@
 # proyecto-da-promo-d-modulo-4-powerBI-team-4
 
-### :credit_card: Descripción del proyecto y objetivo:   
+### :credit_card: Descripción del proyecto:   
 
 En este proyecto hemos utilizado Power BI para analizar un conjunto de datos de transacciones financieras con el objetivo de entender el comportamiento de los datos, observar tendencias y detectar posibles señales de riesgo. La visualización se centra en aspectos como comportamiento del usuario, riesgos de fraude y tendencias financieras.
 
@@ -34,5 +34,21 @@ El conjunto de datos contiene múltiples características divididas en las sigui
 •	Is_Weekend: Indica si la transacción ocurrió en fin de semana (0 o 1). 
 ##### :large_blue_circle: Etiqueta de Fraude   
 •	Fraud_Label: Variable objetivo (0 = No es Fraude, 1 = Es Fraude).
+
+### :dart: Objetivos del Proyecto
+1.	Analizar y visualizar tendencias en los datos de transacciones financieras.
+2.	Identificar patrones relacionados con riesgos de fraude.
+3.	Facilitar la toma de decisiones informadas a través de visualizaciones interactivas.
+
+### :hammer_and_wrench: Herramientas Utilizadas
+•	Power BI: Para creación de visualizaciones interactivas.
+•	GitHub: Para compartir y documentar el proyecto.
+•	Visual Studio Code + Python: Para limpieza y preprocesamiento de los datos.
+
+### :compass: Resultados
+•	Visualizaciones claras y comprensibles de las características clave del dataset.
+•	Identificación de posibles actividades fraudulentas.
+•	Insights sobre el comportamiento de las operaciones fraudulentas  y patrones de transacción.
+
 
 
