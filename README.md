@@ -4,7 +4,7 @@
 
 En este proyecto hemos utilizado Power BI para analizar un conjunto de datos de transacciones financieras con el objetivo de entender el comportamiento de los datos, observar tendencias y detectar posibles señales de riesgo. La visualización se centra en aspectos como comportamiento del usuario, riesgos de fraude y tendencias financieras.
 
-### Estructura del Dataset   
+### :books:Estructura del Dataset   
 El conjunto de datos contiene múltiples características divididas en las siguientes categorías:
 
 ##### :large_blue_circle: Identificación y Contexto   
