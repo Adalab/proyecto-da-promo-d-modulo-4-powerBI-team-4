@@ -41,14 +41,14 @@ El conjunto de datos contiene múltiples características divididas en las sigui
 3.	Facilitar la toma de decisiones informadas a través de visualizaciones interactivas.
 
 ### :hammer_and_wrench: Herramientas Utilizadas
-•	Power BI: Para creación de visualizaciones interactivas.
-•	GitHub: Para compartir y documentar el proyecto.
-•	Visual Studio Code + Python: Para limpieza y preprocesamiento de los datos.
+•	Power BI: Para creación de visualizaciones interactivas. 
+•	GitHub: Para compartir y documentar el proyecto. 
+•	Visual Studio Code + Python: Para limpieza y preprocesamiento de los datos. 
 
 ### :compass: Resultados
-•	Visualizaciones claras y comprensibles de las características clave del dataset.
-•	Identificación de posibles actividades fraudulentas.
-•	Insights sobre el comportamiento de las operaciones fraudulentas  y patrones de transacción.
+•	Visualizaciones claras y comprensibles de las características clave del dataset. 
+•	Identificación de posibles actividades fraudulentas. 
+•	Insights sobre el comportamiento de las operaciones fraudulentas  y patrones de transacción. 
 
 
 
