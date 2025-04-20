@@ -46,7 +46,7 @@ El conjunto de datos contiene múltiples características divididas en las sigui
 •	Visual Studio Code + Python: Para limpieza y preprocesamiento de los datos.   
 
 ### :compass: Resultados
-•	Visualizaciones claras y comprensibles de las características clave del dataset.   
+•	Visualizaciones de las características clave del dataset.   
 •	Identificación de posibles actividades fraudulentas.   
 •	Insights sobre el comportamiento de las operaciones fraudulentas  y patrones de transacción.   
 
