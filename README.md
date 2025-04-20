@@ -50,5 +50,11 @@ El conjunto de datos contiene múltiples características divididas en las sigui
 •	Identificación de posibles actividades fraudulentas.   
 •	Insights sobre el comportamiento de las operaciones fraudulentas  y patrones de transacción.   
 
+### :open_file_folder: Repositorio
+
+Proyecto i
+Synthetic_fraud_dataset.csv - Dataset Fraude
+
+
 
 
