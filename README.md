@@ -52,7 +52,7 @@ El conjunto de datos contiene múltiples características divididas en las sigui
 
 ### :two_women_holding_hands::two_women_holding_hands: Autoras 
 
-•	Cristina Campos Fernández  @Cris-CF
+•	Cristina Campos Fernández  @Cris-CF  
 •	Elisa García Barbazán   
 •	Susana García Villaamil  
 •	Herminia Morales Sánchez  
