@@ -52,8 +52,9 @@ El conjunto de datos contiene múltiples características divididas en las sigui
 
 ### :open_file_folder: Repositorio
 
-Proyecto i
-Synthetic_fraud_dataset.csv - Dataset Fraude
+•	Dataset: Synthetic_fraud_dataset.csv
+•	Análisis de datos: Proyecto.ipynb
+•	Proyecto PowerBI: Proyecto Fraude.pbix
 
 
 
